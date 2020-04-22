@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1>{{ pagina.paginaTitel }}</h1>
+        <h1>{{ pagina.paginaTitle }}</h1>
     </div>
 </template>
 
@@ -23,6 +23,7 @@ export default {
 
          pagina {
             paginaTitel
+          }
         }
 
         ${imageFields}
