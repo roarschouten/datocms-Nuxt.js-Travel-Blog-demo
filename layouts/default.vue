@@ -20,6 +20,9 @@
              <nuxt-link class="navbar-item is-size-5 has-text-weight-semibold" to="/about">
               About
             </nuxt-link>
+             <nuxt-link class="navbar-item is-size-5 has-text-weight-semibold" to="/about">
+              Contact
+            </nuxt-link>
           </div>
         </div>
       </div>
