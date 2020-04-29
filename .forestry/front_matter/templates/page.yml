@@ -1,4 +1,13 @@
 ---
 label: page
 hide_body: true
-fields: []
+fields:
+- name: titel
+  type: text
+  config:
+    required: false
+  label: titel
+- name: tag
+  type: tag_list
+  default: []
+  label: tag
